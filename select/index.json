@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Kiss",
+  "base_artist": "NMIXX",
+  "createdAt": "2025-12-18T13:41:34.168482Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kiss & Tell",
+      "artist": "Bryan Ferry",
+      "has_synced": false,
+      "path": "select/01_Kiss_&_Tell_Bryan_Ferry.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kiss This",
+      "artist": "Aaron Tippin",
+      "has_synced": true,
+      "path": "select/02_Kiss_This_Aaron_Tippin.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kiss Tomorrow Goodbye",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/03_Kiss_Tomorrow_Goodbye_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Are You Gonna Kiss Me Or Not",
+      "artist": "Thompson Square",
+      "has_synced": true,
+      "path": "select/04_Are_You_Gonna_Kiss_Me_Or_Not_Thompson_Square.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kiss An Angel Good Mornin'",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/05_Kiss_An_Angel_Good_Mornin'_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kiss An Angel Good Morning - Live",
+      "artist": "Charley Pride",
+      "has_synced": false,
+      "path": "select/06_Kiss_An_Angel_Good_Morning_-_Live_Charley_Pride.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kiss An Angel Good Morning (Live)",
+      "artist": "Charlie Pryde",
+      "has_synced": false,
+      "path": "select/07_Kiss_An_Angel_Good_Morning_(Live)_Charlie_Pryde.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kiss Me, Kiss Me, Kiss Me - Remix",
+      "artist": "Kenny Chesney",
+      "has_synced": false,
+      "path": "select/08_Kiss_Me,_Kiss_Me,_Kiss_Me_-_Remix_Kenny_Chesney.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Kiss My Country Ass",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/09_Kiss_My_Country_Ass_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kiss My Country Ass",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/10_Kiss_My_Country_Ass_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Kiss My Country Ass",
+      "artist": "Rhett Akins",
+      "has_synced": true,
+      "path": "select/11_Kiss_My_Country_Ass_Rhett_Akins.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kiss Somebody",
+      "artist": "Morgan Evans",
+      "has_synced": true,
+      "path": "select/12_Kiss_Somebody_Morgan_Evans.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Kiss Somebody",
+      "artist": "Morgan Evans",
+      "has_synced": true,
+      "path": "select/13_Kiss_Somebody_Morgan_Evans.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Kiss That Girl Goodbye",
+      "artist": "Aaron Watson",
+      "has_synced": true,
+      "path": "select/14_Kiss_That_Girl_Goodbye_Aaron_Watson.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Kiss You All Over",
+      "artist": "Exile",
+      "has_synced": true,
+      "path": "select/15_Kiss_You_All_Over_Exile.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Kiss You All Over (Album Version)",
+      "artist": "Exile",
+      "has_synced": true,
+      "path": "select/16_Kiss_You_All_Over_(Album_Version)_Exile.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Kiss an Angel Good Mornin'",
+      "artist": "Charley Pride",
+      "has_synced": true,
+      "path": "select/17_Kiss_an_Angel_Good_Mornin'_Charley_Pride.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Kiss",
+      "artist": "NMIXX",
+      "has_synced": false,
+      "path": "select/pl_01_Kiss_NMIXX.txt"
+    }
+  ]
+}
